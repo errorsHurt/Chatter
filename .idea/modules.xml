@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chatter_backend/chatter_backend.iml" filepath="$PROJECT_DIR$/chatter_backend/chatter_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatter_frontend/chatter_frontend.iml" filepath="$PROJECT_DIR$/chatter_frontend/chatter_frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatter_logic/chatter_logic.iml" filepath="$PROJECT_DIR$/chatter_logic/chatter_logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatter_model/chatter_model.iml" filepath="$PROJECT_DIR$/chatter_model/chatter_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatter_parent.iml" filepath="$PROJECT_DIR$/chatter_parent.iml" />
+    </modules>
+  </component>
+</project>
